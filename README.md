@@ -3,5 +3,5 @@
     this method is bad to use 
 
 # alternate method 
-##### promises 
-##### async await
+### promises 
+### async await
